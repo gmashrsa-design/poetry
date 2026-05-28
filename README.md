@@ -1,4 +1,4 @@
-# Poetry: Python packaging and dependency management made easy
+bc30a3a949b6a5a90a0f2bb027a811130d11b795# Poetry: Python packaging and dependency management made easy
 
 [![Poetry](https://img.shields.io/endpoint?url=https://python-poetry.org/badge/v0.json)](https://python-poetry.org/)
 [![Stable Version](https://img.shields.io/pypi/v/poetry?label=stable)][PyPI Releases]
